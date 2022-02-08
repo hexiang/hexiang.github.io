@@ -187,6 +187,20 @@
   </url>
   
   <url>
+    <loc>http://hexiang.github.io/categories/AI/</loc>
+    <lastmod>2022-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexiang.github.io/categories/distribution/</loc>
+    <lastmod>2022-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://hexiang.github.io/categories/blockchain/</loc>
     <lastmod>2022-02-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -194,7 +208,7 @@
   </url>
   
   <url>
-    <loc>http://hexiang.github.io/categories/AI/</loc>
+    <loc>http://hexiang.github.io/categories/database/</loc>
     <lastmod>2022-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -208,7 +222,7 @@
   </url>
   
   <url>
-    <loc>http://hexiang.github.io/categories/distribution/</loc>
+    <loc>http://hexiang.github.io/categories/architecture/</loc>
     <lastmod>2022-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -223,20 +237,6 @@
   
   <url>
     <loc>http://hexiang.github.io/categories/algorithm/</loc>
-    <lastmod>2022-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://hexiang.github.io/categories/database/</loc>
-    <lastmod>2022-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://hexiang.github.io/categories/architecture/</loc>
     <lastmod>2022-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
